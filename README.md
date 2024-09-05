@@ -24,3 +24,16 @@ Here are some ideas to get you started:
 - Аналитик данных Яндекс.Практикум (Data Analitic on Yandex.Practicum):
   - RU: https://disk.yandex.ru/i/1JBA3QmBS8zVmw
   - EN: https://disk.yandex.ru/i/JVTpnK3VNWW_Mg
+
+Со мной можно связаться в Telegram - @BenSherman79
+
+Использую в работе набор инструментов: Python (pandas, numpy, matplotlib, scipy, seaborn, plotly), SQL (PostgreSQL), Tableau
+
+Умею проводить:
+- Исследовательский анализ данных
+- Статистический анализ данных
+- Когортный анализ
+- Юнит-экономику
+- A/B-тестирование
+
+Выполнил 8 учебных проектов с которыми Вы можете ознакомиться в репозиториях
